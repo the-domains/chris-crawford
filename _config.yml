@@ -1,6 +1,6 @@
 name: Chris Crawford
 favicon: null
-layout_spectrum: 0.7039346697274595
+layout_spectrum: 0.95727
 typography_spectrum: 0.06969308946281672
 title: 'Chris Crawford Founder of Kick Ass Media, Speaker and Coach.'
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.5848228137474507
-  lightness: 0.22241132310591638
-  saturation: 0.0207147472538054
-  rhythmicContrast: 0.42598168971017003
+    - '#432f2c'
+    - '#0a0c1a'
+    - '#dfcecf'
+    - '#995f5c'
+    - '#ffa681'
+  brandStrength: 0.6875
+  lightness: 0.125
+  saturation: 0.25
+  rhythmicContrast: 0.75
 purpose: []
